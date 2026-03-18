@@ -1,2 +1,2 @@
 user enter the valid username and password
-user click on the login button
+
