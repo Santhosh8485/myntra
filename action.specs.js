@@ -29,7 +29,7 @@ test("Handling Radio & CheckBoxes" , async function({page}){
     //Single Check Box
     await page.locator('[id="sunday"]').click()
     await page.waitForTimeout(3000)
-
+``
 
     //Multiple Check Boxes
     let multiChecks = [
